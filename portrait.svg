@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="488" height="426" viewBox="0 0 488 426" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="ASCII portrait">
+<svg xmlns="http://www.w3.org/2000/svg" width="488" height="386" viewBox="0 0 488 386" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="ASCII portrait">
 <defs>
 <clipPath id="r0"><rect x="0" y="0" width="0" height="10"><animate attributeName="width" from="0" to="414.8" dur="0.55s" begin="0.0s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <clipPath id="r1"><rect x="0" y="8" width="0" height="10"><animate attributeName="width" from="0" to="424.4" dur="0.55s" begin="0.055s" fill="freeze" calcMode="linear"/></rect></clipPath>
@@ -47,11 +47,6 @@
 <clipPath id="r44"><rect x="0" y="352" width="0" height="10"><animate attributeName="width" from="0" to="352.4" dur="0.55s" begin="2.42s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <clipPath id="r45"><rect x="0" y="360" width="0" height="10"><animate attributeName="width" from="0" to="328.4" dur="0.55s" begin="2.475s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <clipPath id="r46"><rect x="0" y="368" width="0" height="10"><animate attributeName="width" from="0" to="294.8" dur="0.55s" begin="2.53s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<clipPath id="r47"><rect x="0" y="376" width="0" height="10"><animate attributeName="width" from="0" to="2.0" dur="0.55s" begin="2.585s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<clipPath id="r48"><rect x="0" y="384" width="0" height="10"><animate attributeName="width" from="0" to="2.0" dur="0.55s" begin="2.64s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<clipPath id="r49"><rect x="0" y="392" width="0" height="10"><animate attributeName="width" from="0" to="2.0" dur="0.55s" begin="2.695s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<clipPath id="r50"><rect x="0" y="400" width="0" height="10"><animate attributeName="width" from="0" to="227.6" dur="0.55s" begin="2.75s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<clipPath id="r51"><rect x="0" y="408" width="0" height="10"><animate attributeName="width" from="0" to="242.0" dur="0.55s" begin="2.805s" fill="freeze" calcMode="linear"/></rect></clipPath>
 </defs>
 <text x="4" y="8" font-size="8px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#r0)" style="white-space:pre">                 .`-`                 `++******c*+::`.    .==+++*cc*:              :-.</text>
 <text x="4" y="16" font-size="8px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#r1)" style="white-space:pre">               .`:`                .===*cccc*cc******=-`.  .:*+==cc**:              .::.</text>
@@ -100,8 +95,6 @@
 <text x="4" y="360" font-size="8px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#r44)" style="white-space:pre">                               .`-+*cs+-:`......``...  ......`:--cc*+=:`.</text>
 <text x="4" y="368" font-size="8px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#r45)" style="white-space:pre">                                    .`::--::::::::``````::::::-::`..</text>
 <text x="4" y="376" font-size="8px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#r46)" style="white-space:pre">                                           ....``````````....</text>
-<text x="4" y="408" font-size="8px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#r50)" style="white-space:pre">  .   .`. ..`.`.``   ...   ..  .`.  ..  ..  ...</text>
-<text x="4" y="416" font-size="8px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#r51)" style="white-space:pre">  `.  .+:::.*`+=:=.  =:`   .````c--`+`:-*=-::=`+`.</text>
 <rect x="4" y="0" width="4.8" height="8" fill="#39d353" opacity="0.9"><animate attributeName="x" from="4" to="416.8" dur="0.55s" begin="0.0s" fill="freeze"/><animate attributeName="opacity" from="0.9" to="0" dur="0.12s" begin="0.55s" fill="freeze"/></rect>
 <rect x="4" y="8" width="4.8" height="8" fill="#39d353" opacity="0.9"><animate attributeName="x" from="4" to="426.4" dur="0.55s" begin="0.055s" fill="freeze"/><animate attributeName="opacity" from="0.9" to="0" dur="0.12s" begin="0.605s" fill="freeze"/></rect>
 <rect x="4" y="16" width="4.8" height="8" fill="#39d353" opacity="0.9"><animate attributeName="x" from="4" to="436.0" dur="0.55s" begin="0.11s" fill="freeze"/><animate attributeName="opacity" from="0.9" to="0" dur="0.12s" begin="0.66s" fill="freeze"/></rect>
@@ -149,6 +142,4 @@
 <rect x="4" y="352" width="4.8" height="8" fill="#39d353" opacity="0.9"><animate attributeName="x" from="4" to="354.4" dur="0.55s" begin="2.42s" fill="freeze"/><animate attributeName="opacity" from="0.9" to="0" dur="0.12s" begin="2.97s" fill="freeze"/></rect>
 <rect x="4" y="360" width="4.8" height="8" fill="#39d353" opacity="0.9"><animate attributeName="x" from="4" to="330.4" dur="0.55s" begin="2.475s" fill="freeze"/><animate attributeName="opacity" from="0.9" to="0" dur="0.12s" begin="3.025s" fill="freeze"/></rect>
 <rect x="4" y="368" width="4.8" height="8" fill="#39d353" opacity="0.9"><animate attributeName="x" from="4" to="296.8" dur="0.55s" begin="2.53s" fill="freeze"/><animate attributeName="opacity" from="0.9" to="0" dur="0.12s" begin="3.08s" fill="freeze"/></rect>
-<rect x="4" y="400" width="4.8" height="8" fill="#39d353" opacity="0.9"><animate attributeName="x" from="4" to="229.6" dur="0.55s" begin="2.75s" fill="freeze"/><animate attributeName="opacity" from="0.9" to="0" dur="0.12s" begin="3.3s" fill="freeze"/></rect>
-<rect x="4" y="408" width="4.8" height="8" fill="#39d353" opacity="0.9"><animate attributeName="x" from="4" to="244.0" dur="0.55s" begin="2.805s" fill="freeze"/><animate attributeName="opacity" from="0.9" to="0" dur="0.12s" begin="3.355s" fill="freeze"/></rect>
 </svg>

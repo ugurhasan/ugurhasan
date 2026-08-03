@@ -50,6 +50,23 @@ def to_ascii_rows(path):
             chars.append(RAMP[idx])
         # trim trailing spaces so rows don't carry empty width
         lines.append("".join(chars).rstrip())
+    return trim_footer(lines)
+
+
+def trim_footer(lines):
+    """Drop anything hanging below the subject.
+
+    A watermark or caption baked into the photo lands as its own band of noise
+    under a blank gap, which reads as stray text rather than as part of the
+    portrait. Cut at the last blank row in the bottom fifth, then drop any
+    blank rows left at the end.
+    """
+    for i in range(len(lines) - 1, int(len(lines) * 0.8), -1):
+        if not lines[i].strip():
+            lines = lines[:i]
+            break
+    while lines and not lines[-1].strip():
+        lines.pop()
     return lines
 
 

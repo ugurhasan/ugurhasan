@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td valign="top"><img src="./portrait.svg" width="370" alt="ASCII portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Info card" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="ASCII wordmark: Ugur" /></td>
   </tr>
 </table>
 

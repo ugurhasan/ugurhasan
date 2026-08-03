@@ -5,13 +5,17 @@ Hand-author a neofetch-style info card SVG: a terminal window whose body is
 key/value rows that fade + slide in line by line. Set STATIC=1 for a frozen
 frame (local Quick Look previews).
 
+Superseded in the README by make_wordmark_card.py (the ASCII "Ugur" wordmark),
+which owns info-card.svg — this one writes info-card-rows.svg so the two can
+coexist. Swap the <img> src in README.md to bring the rows back.
+
 Edit the ROWS / HEADER below to change the content — this is the one file that
 tells the story your numbers can't.
 """
 
 import os
 
-OUT = os.path.join(os.path.dirname(__file__), "..", "info-card.svg")
+OUT = os.path.join(os.path.dirname(__file__), "..", "info-card-rows.svg")
 STATIC = os.environ.get("STATIC") == "1"
 
 # ---- content ---------------------------------------------------------------

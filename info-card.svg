@@ -1,86 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="362" viewBox="0 0 490 362" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="Info card for ugur@github">
-<style>
-    .line { opacity: 0; transform: translateX(-6px);
-            animation: slidein .5s ease forwards; }
-    @keyframes slidein { to { opacity: 1; transform: translateX(0); } }
-    .prompt-line { opacity: 0; animation: fade .4s ease forwards; }
-    @keyframes fade { to { opacity: 1; } }
-    </style>
-<rect x="1" y="1" width="488" height="360" rx="10" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="331" viewBox="0 0 490 331" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="ASCII wordmark: Ugur">
+<rect x="1" y="1" width="488" height="329" rx="10" fill="#0d1117" stroke="#30363d"/>
 <path d="M1 11 a10 10 0 0 1 10 -10 h468 a10 10 0 0 1 10 10 v20 h-488 z" fill="#161b22"/>
 <circle cx="20" cy="15.0" r="6" fill="#ff5f56"/>
 <circle cx="40" cy="15.0" r="6" fill="#ffbd2e"/>
 <circle cx="60" cy="15.0" r="6" fill="#27c93f"/>
-<text x="245.0" y="19.0" text-anchor="middle" font-size="11" fill="#7d8590">ugur@github: ~$ ./whoami.sh</text>
-<text class="prompt-line" x="22" y="52" font-size="12.5" fill="#58a6ff" style="animation-delay:.05s">ugur@github<tspan fill="#7d8590"> ~ $ </tspan><tspan fill="#e6edf3">cat about.txt</tspan></text>
-<g class="line" style="animation-delay:0.25s">
-<text x="22" y="72" font-size="13" fill="#39d353" font-weight="600">Name</text>
-<text x="22" y="72" font-size="13" fill="#7d8590"></text>
-<text x="96" y="72" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="72" font-size="13" fill="#e6edf3">Ughur Hasan</text>
-</g>
-<g class="line" style="animation-delay:0.39s">
-<text x="22" y="98" font-size="13" fill="#39d353" font-weight="600">Now</text>
-<text x="22" y="98" font-size="13" fill="#7d8590"></text>
-<text x="96" y="98" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="98" font-size="13" fill="#e6edf3">Founder @ Applynix (AI agency)</text>
-</g>
-<g class="line" style="animation-delay:0.53s">
-<text x="22" y="124" font-size="13" fill="#39d353" font-weight="600">Also</text>
-<text x="22" y="124" font-size="13" fill="#7d8590"></text>
-<text x="96" y="124" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="124" font-size="13" fill="#e6edf3">Building Rialtoo (startup)</text>
-</g>
-<g class="line" style="animation-delay:0.67s">
-<text x="22" y="150" font-size="13" fill="#39d353" font-weight="600">Focus</text>
-<text x="22" y="150" font-size="13" fill="#7d8590"></text>
-<text x="96" y="150" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="150" font-size="13" fill="#e6edf3">Full-stack — React / Next.js</text>
-</g>
-<g class="line" style="animation-delay:0.81s">
-<text x="22" y="176" font-size="13" fill="#39d353" font-weight="600">Stack</text>
-<text x="22" y="176" font-size="13" fill="#7d8590"></text>
-<text x="96" y="176" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="176" font-size="13" fill="#e6edf3">TS · Node · Spring Boot · Flask</text>
-</g>
-<g class="line" style="animation-delay:0.95s">
-<text x="22" y="202" font-size="13" fill="#39d353" font-weight="600">Data</text>
-<text x="22" y="202" font-size="13" fill="#7d8590"></text>
-<text x="96" y="202" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="202" font-size="13" fill="#e6edf3">Postgres · MongoDB · Supabase</text>
-</g>
-<g class="line" style="animation-delay:1.09s">
-<text x="22" y="228" font-size="13" fill="#39d353" font-weight="600">Infra</text>
-<text x="22" y="228" font-size="13" fill="#7d8590"></text>
-<text x="96" y="228" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="228" font-size="13" fill="#e6edf3">Docker · Vercel · Cloudflare · Railway</text>
-</g>
-<g class="line" style="animation-delay:1.23s">
-<text x="22" y="254" font-size="13" fill="#39d353" font-weight="600">Studying</text>
-<text x="22" y="254" font-size="13" fill="#7d8590"></text>
-<text x="96" y="254" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="254" font-size="13" fill="#e6edf3">BSc Computer Science @ IU</text>
-</g>
-<g class="line" style="animation-delay:1.37s">
-<text x="22" y="280" font-size="13" fill="#39d353" font-weight="600">Loc</text>
-<text x="22" y="280" font-size="13" fill="#7d8590"></text>
-<text x="96" y="280" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="280" font-size="13" fill="#e6edf3">Germany</text>
-</g>
-<g class="line" style="animation-delay:1.51s">
-<text x="22" y="306" font-size="13" fill="#39d353" font-weight="600">Motto</text>
-<text x="22" y="306" font-size="13" fill="#7d8590"></text>
-<text x="96" y="306" font-size="13" fill="#7d8590">~</text>
-<text x="110" y="306" font-size="13" fill="#e6edf3">Tech guy building brands.</text>
-</g>
-<g class="line" style="animation-delay:1.65s">
-<rect x="22" y="334" width="13" height="13" rx="2" fill="#161b22"/>
-<rect x="38" y="334" width="13" height="13" rx="2" fill="#f85149"/>
-<rect x="54" y="334" width="13" height="13" rx="2" fill="#39d353"/>
-<rect x="70" y="334" width="13" height="13" rx="2" fill="#d29922"/>
-<rect x="86" y="334" width="13" height="13" rx="2" fill="#58a6ff"/>
-<rect x="102" y="334" width="13" height="13" rx="2" fill="#bc8cff"/>
-<rect x="118" y="334" width="13" height="13" rx="2" fill="#39c5cf"/>
-<rect x="134" y="334" width="13" height="13" rx="2" fill="#e6edf3"/>
+<text x="245.0" y="19.0" text-anchor="middle" font-size="11" fill="#7d8590">ugur@github: ~$ ./wordmark.sh --3d</text>
+<text x="22" y="52" font-size="12.5" fill="#58a6ff" opacity="0">ugur@github<tspan fill="#7d8590"> ~ $ </tspan><tspan fill="#e6edf3">./wordmark.sh --3d</tspan><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.05s" fill="freeze"/></text>
+<defs>
+<clipPath id="w0"><rect x="47" y="74" width="0" height="14"><animate attributeName="width" from="0" to="107.6" dur="0.5s" begin="0.0s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w1"><rect x="47" y="86" width="0" height="14"><animate attributeName="width" from="0" to="107.6" dur="0.5s" begin="0.085s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w2"><rect x="47" y="98" width="0" height="14"><animate attributeName="width" from="0" to="391.4" dur="0.5s" begin="0.17s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w3"><rect x="47" y="110" width="0" height="14"><animate attributeName="width" from="0" to="398.0" dur="0.5s" begin="0.255s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w4"><rect x="47" y="122" width="0" height="14"><animate attributeName="width" from="0" to="398.0" dur="0.5s" begin="0.34s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w5"><rect x="47" y="134" width="0" height="14"><animate attributeName="width" from="0" to="371.6" dur="0.5s" begin="0.425s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w6"><rect x="47" y="146" width="0" height="14"><animate attributeName="width" from="0" to="358.4" dur="0.5s" begin="0.51s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w7"><rect x="47" y="158" width="0" height="14"><animate attributeName="width" from="0" to="358.4" dur="0.5s" begin="0.595s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w8"><rect x="47" y="170" width="0" height="14"><animate attributeName="width" from="0" to="358.4" dur="0.5s" begin="0.68s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w9"><rect x="47" y="182" width="0" height="14"><animate attributeName="width" from="0" to="358.4" dur="0.5s" begin="0.765s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w10"><rect x="47" y="194" width="0" height="14"><animate attributeName="width" from="0" to="358.4" dur="0.5s" begin="0.85s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w11"><rect x="47" y="206" width="0" height="14"><animate attributeName="width" from="0" to="358.4" dur="0.5s" begin="0.935s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w12"><rect x="47" y="218" width="0" height="14"><animate attributeName="width" from="0" to="213.2" dur="0.5s" begin="1.02s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w13"><rect x="47" y="230" width="0" height="14"><animate attributeName="width" from="0" to="213.2" dur="0.5s" begin="1.105s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="w14"><rect x="47" y="242" width="0" height="14"><animate attributeName="width" from="0" to="200.0" dur="0.5s" begin="1.19s" fill="freeze" calcMode="linear"/></rect></clipPath>
+</defs>
+<text x="47" y="83" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w0)" style="white-space:pre"><tspan fill="#c9d1d9">s+</tspan>         <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">+ss</tspan></text>
+<text x="47" y="95" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w1)" style="white-space:pre"><tspan fill="#c9d1d9">SS</tspan>         <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan></text>
+<text x="47" y="107" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w2)" style="white-space:pre"><tspan fill="#c9d1d9">SS</tspan>         <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan>     <tspan fill="#6e7681">`+++++`+++</tspan> <tspan fill="#6e7681">`+++</tspan>       <tspan fill="#6e7681">`+++</tspan>  <tspan fill="#6e7681">`++</tspan> <tspan fill="#6e7681">`+++++</tspan></text>
+<text x="47" y="119" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w3)" style="white-space:pre"><tspan fill="#c9d1d9">SS</tspan>         <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan>  <tspan fill="#6e7681">`+++</tspan><tspan fill="#c9d1d9">sCCCCs+CCs</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">sCC</tspan>      <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">sCC</tspan><tspan fill="#6e7681">`++</tspan><tspan fill="#c9d1d9">CC++sCCCs</tspan></text>
+<text x="47" y="131" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w4)" style="white-space:pre"><tspan fill="#c9d1d9">SS</tspan>         <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan> <tspan fill="#6e7681">`++</tspan><tspan fill="#c9d1d9">sSSSSSSSSSSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSSs</tspan>     <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">CSSSSSSSSC</tspan></text>
+<text x="47" y="143" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w5)" style="white-space:pre"><tspan fill="#c9d1d9">SS</tspan>         <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan> <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">CSSSs</tspan>  <tspan fill="#c9d1d9">+CSSSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSSs</tspan>     <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">CSSSSs</tspan></text>
+<text x="47" y="155" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w6)" style="white-space:pre"><tspan fill="#c9d1d9">SS</tspan>         <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">+SSS</tspan>    <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSSs</tspan>     <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">CSSS</tspan></text>
+<text x="47" y="167" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w7)" style="white-space:pre"><tspan fill="#c9d1d9">SS</tspan>         <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">sSSS</tspan>    <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">sSSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSSs</tspan>     <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">CSSC</tspan></text>
+<text x="47" y="179" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w8)" style="white-space:pre"><tspan fill="#c9d1d9">SS</tspan>        <tspan fill="#6e7681">`++</tspan><tspan fill="#c9d1d9">SSS</tspan> <tspan fill="#6e7681">`</tspan><tspan fill="#c9d1d9">sSSS</tspan>    <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">CSSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSSs</tspan>     <tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">CSSC</tspan></text>
+<text x="47" y="191" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w9)" style="white-space:pre"><tspan fill="#c9d1d9">SSs</tspan><tspan fill="#6e7681">+++++++++</tspan><tspan fill="#c9d1d9">sSSS</tspan>  <tspan fill="#6e7681">`</tspan><tspan fill="#c9d1d9">SSSC</tspan><tspan fill="#6e7681">++++</tspan><tspan fill="#c9d1d9">+SSSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">SSSC</tspan><tspan fill="#6e7681">+++++++</tspan><tspan fill="#c9d1d9">SSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">CSSC</tspan></text>
+<text x="47" y="203" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w10)" style="white-space:pre"><tspan fill="#c9d1d9">SSSSSCCsCCCSSSSs</tspan>   <tspan fill="#6e7681">`</tspan><tspan fill="#c9d1d9">SSSSCCSSSSSS</tspan>  <tspan fill="#c9d1d9">sSSSSCCsCCSSSS</tspan><tspan fill="#6e7681">`+</tspan><tspan fill="#c9d1d9">CSSC</tspan></text>
+<text x="47" y="215" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w11)" style="white-space:pre"> <tspan fill="#c9d1d9">sCSSSSSSSSSCs</tspan>       <tspan fill="#c9d1d9">sSSSSSSSSSS</tspan>    <tspan fill="#c9d1d9">CSSSSSSSSSSS</tspan>  <tspan fill="#c9d1d9">sSSC</tspan></text>
+<text x="47" y="227" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w12)" style="white-space:pre">                 <tspan fill="#6e7681">`++</tspan><tspan fill="#c9d1d9">ss</tspan><tspan fill="#6e7681">++++++</tspan><tspan fill="#c9d1d9">CSSS</tspan></text>
+<text x="47" y="239" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w13)" style="white-space:pre">                  <tspan fill="#6e7681">`</tspan><tspan fill="#c9d1d9">CSSSCCsCSSSS+</tspan></text>
+<text x="47" y="251" font-size="11px" fill="#c9d1d9" xml:space="preserve" clip-path="url(#w14)" style="white-space:pre">                    <tspan fill="#c9d1d9">sCSSSSSSSC</tspan></text>
+<rect x="47" y="74" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="152.6" dur="0.5s" begin="0.0s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="0.5s" fill="freeze"/></rect>
+<rect x="47" y="86" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="152.6" dur="0.5s" begin="0.085s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="0.585s" fill="freeze"/></rect>
+<rect x="47" y="98" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="436.4" dur="0.5s" begin="0.17s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="0.67s" fill="freeze"/></rect>
+<rect x="47" y="110" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="443.0" dur="0.5s" begin="0.255s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="0.755s" fill="freeze"/></rect>
+<rect x="47" y="122" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="443.0" dur="0.5s" begin="0.34s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="0.84s" fill="freeze"/></rect>
+<rect x="47" y="134" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="416.6" dur="0.5s" begin="0.425s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="0.925s" fill="freeze"/></rect>
+<rect x="47" y="146" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="403.4" dur="0.5s" begin="0.51s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="1.01s" fill="freeze"/></rect>
+<rect x="47" y="158" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="403.4" dur="0.5s" begin="0.595s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="1.095s" fill="freeze"/></rect>
+<rect x="47" y="170" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="403.4" dur="0.5s" begin="0.68s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="1.18s" fill="freeze"/></rect>
+<rect x="47" y="182" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="403.4" dur="0.5s" begin="0.765s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="1.265s" fill="freeze"/></rect>
+<rect x="47" y="194" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="403.4" dur="0.5s" begin="0.85s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="1.35s" fill="freeze"/></rect>
+<rect x="47" y="206" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="403.4" dur="0.5s" begin="0.935s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="1.435s" fill="freeze"/></rect>
+<rect x="47" y="218" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="258.2" dur="0.5s" begin="1.02s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="1.52s" fill="freeze"/></rect>
+<rect x="47" y="230" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="258.2" dur="0.5s" begin="1.105s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="1.605s" fill="freeze"/></rect>
+<rect x="47" y="242" width="6.6" height="11" fill="#39d353" opacity="0.85"><animate attributeName="x" from="47" to="245.0" dur="0.5s" begin="1.19s" fill="freeze"/><animate attributeName="opacity" from="0.85" to="0" dur="0.12s" begin="1.69s" fill="freeze"/></rect>
+<text x="245.0" y="280" text-anchor="middle" font-size="11.5" fill="#7d8590" opacity="0">Ughur Hasan — Founder @ Applynix · full-stack dev<animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.78s" fill="freeze"/></text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.93s" fill="freeze"/>
+<rect x="182.5" y="298" width="13" height="13" rx="2" fill="#161b22"/>
+<rect x="198.5" y="298" width="13" height="13" rx="2" fill="#f85149"/>
+<rect x="214.5" y="298" width="13" height="13" rx="2" fill="#39d353"/>
+<rect x="230.5" y="298" width="13" height="13" rx="2" fill="#d29922"/>
+<rect x="246.5" y="298" width="13" height="13" rx="2" fill="#58a6ff"/>
+<rect x="262.5" y="298" width="13" height="13" rx="2" fill="#bc8cff"/>
+<rect x="278.5" y="298" width="13" height="13" rx="2" fill="#39c5cf"/>
+<rect x="294.5" y="298" width="13" height="13" rx="2" fill="#e6edf3"/>
 </g>
 </svg>
