@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="362" viewBox="0 0 490 362" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="Info card for ugur@github">
+<style>
+    .line { opacity: 0; transform: translateX(-6px);
+            animation: slidein .5s ease forwards; }
+    @keyframes slidein { to { opacity: 1; transform: translateX(0); } }
+    .prompt-line { opacity: 0; animation: fade .4s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    </style>
+<rect x="1" y="1" width="488" height="360" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 11 a10 10 0 0 1 10 -10 h468 a10 10 0 0 1 10 10 v20 h-488 z" fill="#161b22"/>
+<circle cx="20" cy="15.0" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="15.0" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="15.0" r="6" fill="#27c93f"/>
+<text x="245.0" y="19.0" text-anchor="middle" font-size="11" fill="#7d8590">ugur@github: ~$ ./whoami.sh</text>
+<text class="prompt-line" x="22" y="52" font-size="12.5" fill="#58a6ff" style="animation-delay:.05s">ugur@github<tspan fill="#7d8590"> ~ $ </tspan><tspan fill="#e6edf3">cat about.txt</tspan></text>
+<g class="line" style="animation-delay:0.25s">
+<text x="22" y="72" font-size="13" fill="#39d353" font-weight="600">Name</text>
+<text x="22" y="72" font-size="13" fill="#7d8590"></text>
+<text x="96" y="72" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="72" font-size="13" fill="#e6edf3">Ughur Hasan</text>
+</g>
+<g class="line" style="animation-delay:0.39s">
+<text x="22" y="98" font-size="13" fill="#39d353" font-weight="600">Now</text>
+<text x="22" y="98" font-size="13" fill="#7d8590"></text>
+<text x="96" y="98" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="98" font-size="13" fill="#e6edf3">Founder @ Applynix (AI agency)</text>
+</g>
+<g class="line" style="animation-delay:0.53s">
+<text x="22" y="124" font-size="13" fill="#39d353" font-weight="600">Also</text>
+<text x="22" y="124" font-size="13" fill="#7d8590"></text>
+<text x="96" y="124" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="124" font-size="13" fill="#e6edf3">Building Rialtoo (startup)</text>
+</g>
+<g class="line" style="animation-delay:0.67s">
+<text x="22" y="150" font-size="13" fill="#39d353" font-weight="600">Focus</text>
+<text x="22" y="150" font-size="13" fill="#7d8590"></text>
+<text x="96" y="150" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="150" font-size="13" fill="#e6edf3">Full-stack — React / Next.js</text>
+</g>
+<g class="line" style="animation-delay:0.81s">
+<text x="22" y="176" font-size="13" fill="#39d353" font-weight="600">Stack</text>
+<text x="22" y="176" font-size="13" fill="#7d8590"></text>
+<text x="96" y="176" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="176" font-size="13" fill="#e6edf3">TS · Node · Spring Boot · Flask</text>
+</g>
+<g class="line" style="animation-delay:0.95s">
+<text x="22" y="202" font-size="13" fill="#39d353" font-weight="600">Data</text>
+<text x="22" y="202" font-size="13" fill="#7d8590"></text>
+<text x="96" y="202" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="202" font-size="13" fill="#e6edf3">Postgres · MongoDB · Supabase</text>
+</g>
+<g class="line" style="animation-delay:1.09s">
+<text x="22" y="228" font-size="13" fill="#39d353" font-weight="600">Infra</text>
+<text x="22" y="228" font-size="13" fill="#7d8590"></text>
+<text x="96" y="228" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="228" font-size="13" fill="#e6edf3">Docker · Vercel · Cloudflare · Railway</text>
+</g>
+<g class="line" style="animation-delay:1.23s">
+<text x="22" y="254" font-size="13" fill="#39d353" font-weight="600">Studying</text>
+<text x="22" y="254" font-size="13" fill="#7d8590"></text>
+<text x="96" y="254" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="254" font-size="13" fill="#e6edf3">BSc Computer Science @ IU</text>
+</g>
+<g class="line" style="animation-delay:1.37s">
+<text x="22" y="280" font-size="13" fill="#39d353" font-weight="600">Loc</text>
+<text x="22" y="280" font-size="13" fill="#7d8590"></text>
+<text x="96" y="280" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="280" font-size="13" fill="#e6edf3">Germany</text>
+</g>
+<g class="line" style="animation-delay:1.51s">
+<text x="22" y="306" font-size="13" fill="#39d353" font-weight="600">Motto</text>
+<text x="22" y="306" font-size="13" fill="#7d8590"></text>
+<text x="96" y="306" font-size="13" fill="#7d8590">~</text>
+<text x="110" y="306" font-size="13" fill="#e6edf3">Tech guy building brands.</text>
+</g>
+<g class="line" style="animation-delay:1.65s">
+<rect x="22" y="334" width="13" height="13" rx="2" fill="#161b22"/>
+<rect x="38" y="334" width="13" height="13" rx="2" fill="#f85149"/>
+<rect x="54" y="334" width="13" height="13" rx="2" fill="#39d353"/>
+<rect x="70" y="334" width="13" height="13" rx="2" fill="#d29922"/>
+<rect x="86" y="334" width="13" height="13" rx="2" fill="#58a6ff"/>
+<rect x="102" y="334" width="13" height="13" rx="2" fill="#bc8cff"/>
+<rect x="118" y="334" width="13" height="13" rx="2" fill="#39c5cf"/>
+<rect x="134" y="334" width="13" height="13" rx="2" fill="#e6edf3"/>
+</g>
+</svg>
