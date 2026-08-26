@@ -1,10 +1,10 @@
 {
   "username": "ugurhasan",
-  "generated_at": "2026-08-25T07:11:50.555371+00:00",
-  "total": 769,
+  "generated_at": "2026-08-26T07:11:49.158350+00:00",
+  "total": 772,
   "weeks": 53,
   "current_streak": 0,
-  "longest_streak": 28,
+  "longest_streak": 29,
   "best_day": {
     "date": "2025-11-21",
     "count": 23
@@ -76,7 +76,7 @@
     "2026-05": 49,
     "2026-06": 72,
     "2026-07": 95,
-    "2026-08": 78
+    "2026-08": 81
   },
   "days": [
     {
@@ -2643,9 +2643,16 @@
     },
     {
       "date": "2026-08-25",
+      "count": 3,
+      "level": 1,
+      "weekday": 2,
+      "week": 52
+    },
+    {
+      "date": "2026-08-26",
       "count": 0,
       "level": 0,
-      "weekday": 2,
+      "weekday": 3,
       "week": 52
     }
   ]
